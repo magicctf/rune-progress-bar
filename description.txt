@@ -1,0 +1,1 @@
+Changes default progress bar to rune one. Fits well into Magic-CTF.
